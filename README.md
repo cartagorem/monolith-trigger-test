@@ -1,3 +1,5 @@
 # Monolith App
 
-A simple description
+A simple description.
+
+Another paragraph on this readme file.
